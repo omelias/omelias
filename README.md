@@ -1,4 +1,5 @@
-### Hi there 👋
+### <img src="https://media-exp1.licdn.com/dms/image/C4D22AQEZnIRFGeFliQ/feedshare-shrink_2048_1536/0/1649742157826?e=1673481600&v=beta&t=nDrYztXzFrQmT-5ClouRvBeBLjeKz4cuOJ3_DWU2Erg">
+
 
 <!--
 **omelias/omelias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
